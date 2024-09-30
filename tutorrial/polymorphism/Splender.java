@@ -1,5 +1,5 @@
 package tutorrial.polymorphism;
-
+// Runtime Polymorphism (Method Overriding):
 class Bike {
     void run() {
         System.out.println("running");
@@ -12,7 +12,7 @@ public class Splender extends Bike {
     }
  
     public static void main(String args[]) {
-        Bike b = new Splender();
+        Bike b = new Splender();// Upcasting
         b.run();
     }
 }
