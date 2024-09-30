@@ -1,4 +1,4 @@
-package lab;
+package lab.lab4;
 
 public class Product {
     private String name;
