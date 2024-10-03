@@ -1,0 +1,6 @@
+Tran Van C;21;8;7;8;EN
+Le Thi D;22;9;9;10;IT
+Nguyen Minh E;20;6;7;8;CK
+Pham Van F;19;8;8;9;MT
+Nguyen Thi G;20;10;9;10;IT
+Hoang Van H;21;7;6;8;DT
