@@ -1,0 +1,4 @@
+England=London
+Germany=Berlin
+Norway=Oslo
+USA=Washington DC
