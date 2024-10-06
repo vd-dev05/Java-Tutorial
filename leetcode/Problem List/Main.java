@@ -2,22 +2,17 @@
  * Main
  */
 public class Main {
-
     public static void main(String[] args) {
-        String s = "Hello planet earth, you are a great planet222222.";
-        int vowelCount = countVowels(s);
-        System.out.println("Number of vowels: " + vowelCount);
-    }
+        int[] nums = {1,2,3,4,5,9};
+        int lastElement = nums[nums.length -1 ] + 1;
+        System.out.println(lastElement);
 
-    public static int countVowels(String s) {
-        int count = 0;
-        // Convert the string to a character array and iterate over it
-        for (char c : s.toCharArray()) {
-            // Check if the character is a vowel (both lowercase and uppercase)
-            if ("AEIOUaeiou1231".indexOf(c) != -1) {
-                count++;
-            }
+        for (int i : nums) {
+            if (nums[i] == )
+            // System.out.println(i);
         }
-        return count;
+        // for (int i = 0 ; i < nums.length - 1; i ++) {
+        //     System.out.println(i);
+        // }
     }
 }
